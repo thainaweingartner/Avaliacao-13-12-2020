@@ -1,0 +1,42 @@
+[
+  {
+      "id": 1,
+      "disponible": true,
+      "name": "Guardanapos",
+      "description": "Guardanapo de pano feito com tecidos recuperados da indústria brasileira. Para ser usado a mesa no cotidiano. Para uma rotina mais afetiva e com menos lixo, evitando os guardanapos descartáveis. Além de deixar a mesa mais aconchegante, também pode ser utilizado para embalar pequenos presentes.",
+      "image": "https://res.cloudinary.com/drmcrgubu/image/upload/v1607891807/Products/guardanapos_vk5ajx.jpg",
+      "price": "R$25"
+  },
+  {
+    "id": 2,
+    "disponible": true,
+    "name": "Copo Menos 1 Lixo",
+    "description": "Copo de silicone de grau alimentício, retrátil, para carregar para onde quiser, sem precisar usar copos descartáveis.",
+    "image": "https://res.cloudinary.com/drmcrgubu/image/upload/v1607891808/Products/copo_c7fbvk.jpg",
+    "price": "R$55"
+},
+{
+  "id": 3,
+  "disponible": false,
+  "name": "Kit Canudo Silicone",
+  "description": "Canudo de silicone, com escovinha de limpeza e porta canudos para carregar seu canudinho para onde quiser.",
+  "image": "https://res.cloudinary.com/drmcrgubu/image/upload/v1607891807/Products/canudo_g8jae7.jpg",
+  "price": "R$25"
+},
+{
+  "id": 4,
+  "disponible": true,
+  "name": "Escova de Bambu",
+  "description": "Escova de dente feita de bambu com cerdas de caarvão vegetal",
+  "image": "https://res.cloudinary.com/drmcrgubu/image/upload/v1607891807/Products/escova_jfhygn.jpg",
+  "price": "R$15"
+},
+{
+  "id": 5,
+  "name": "EcoEstojo",
+  "disponible": false,
+  "description": "O estojo é uma opção prática para ter sempre na bolsa, para carregar talheres, guardanapo de pano, canudo reutilizável, escova de dente e hashi e sempre recusar os descartáveis da rua.",
+  "image": "https://res.cloudinary.com/drmcrgubu/image/upload/v1607891808/Products/ecoestojo_lbakqi.jpg",
+  "price": "R$25"
+}
+]
